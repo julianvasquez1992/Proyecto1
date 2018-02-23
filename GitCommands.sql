@@ -1,4 +1,7 @@
 git status
+git commit -m "Nuevo commit"
+git push
+git pull
 git checkout -b "NombreNuevoBranch"
 git checkout NombreNuevoBranch
 git branch
