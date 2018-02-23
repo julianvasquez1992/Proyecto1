@@ -7,3 +7,7 @@ git checkout NombreNuevoBranch
 git branch
 git branch -d [name_of_your_new_branch]
 git branch -D [name_of_your_new_branch]
+
+//To do merge
+git checkout master
+git merge Namebranch
