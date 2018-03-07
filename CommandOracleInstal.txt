@@ -1,0 +1,14 @@
+**Pasos para instalar oracle 12C**
+In cmd
+	- lsnrctl status
+	- lsnrctl start
+
+Review to SID
+	- tnsping xe
+
+Verify user
+	- sqlplus
+
+Default user
+	-Username:system
+	-Password:oracle
