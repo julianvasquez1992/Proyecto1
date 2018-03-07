@@ -11,4 +11,26 @@ Verify user
 
 Default user
 	-Username:system
-	-Password:oracle
+	-Password:oracle (In other cases the password belongs to the owner)
+
+In case that user was blocked
+
+In cmd
+	-sqlplus/ as sysdba
+
+	ALTER USER SYSTEM ACCOUNT UNLOCK;
+
+My credentials
+
+JulianDataBase
+juli11208437
+
+Nombre base de datos conexión: pdborcl
+
+Base de datos global: orcl
+
+ADMIN
+juli11208437
+
+system
+juli11208437
